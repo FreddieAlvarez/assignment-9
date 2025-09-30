@@ -28,3 +28,4 @@ fetchGifBtn.addEventListener("click", async () => {
         console.error("Error fetching gifs:", error);   
     }
 });
+
